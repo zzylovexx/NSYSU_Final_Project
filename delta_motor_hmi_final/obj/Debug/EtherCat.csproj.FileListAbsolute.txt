@@ -1,0 +1,220 @@
+D:\onedrive備分\C#\01_EC_Card_Initial\bin\Debug\EtherCat.exe.config
+D:\onedrive備分\C#\01_EC_Card_Initial\bin\Debug\EtherCat.exe
+D:\onedrive備分\C#\01_EC_Card_Initial\bin\Debug\EtherCat.pdb
+D:\onedrive備分\C#\01_EC_Card_Initial\obj\Debug\EtherCat.csprojAssemblyReference.cache
+D:\onedrive備分\C#\01_EC_Card_Initial\obj\Debug\EtherCat.Form1.resources
+D:\onedrive備分\C#\01_EC_Card_Initial\obj\Debug\EtherCat.Properties.Resources.resources
+D:\onedrive備分\C#\01_EC_Card_Initial\obj\Debug\EtherCat.csproj.GenerateResource.cache
+D:\onedrive備分\C#\01_EC_Card_Initial\obj\Debug\EtherCat.csproj.CoreCompileInputs.cache
+D:\onedrive備分\C#\01_EC_Card_Initial\obj\Debug\EtherCat.exe
+D:\onedrive備分\C#\01_EC_Card_Initial\obj\Debug\EtherCat.pdb
+C:\專題相關程式碼\測試\測試1 - 複製\bin\Debug\EtherCat.exe.config
+C:\專題相關程式碼\測試\測試1 - 複製\bin\Debug\EtherCat.exe
+C:\專題相關程式碼\測試\測試1 - 複製\bin\Debug\EtherCat.pdb
+C:\專題相關程式碼\測試\測試1 - 複製\obj\Debug\EtherCat.csppanel.resources
+C:\專題相關程式碼\測試\測試1 - 複製\obj\Debug\EtherCat.Form1.resources
+C:\專題相關程式碼\測試\測試1 - 複製\obj\Debug\EtherCat.Properties.Resources.resources
+C:\專題相關程式碼\測試\測試1 - 複製\obj\Debug\EtherCat.csproj.GenerateResource.cache
+C:\專題相關程式碼\測試\測試1 - 複製\obj\Debug\EtherCat.csproj.CoreCompileInputs.cache
+C:\專題相關程式碼\測試\測試1 - 複製\obj\Debug\EtherCat.exe
+C:\專題相關程式碼\測試\測試1 - 複製\obj\Debug\EtherCat.pdb
+E:\test\測試2\bin\Debug\EtherCat.exe.config
+E:\test\測試2\bin\Debug\EtherCat.exe
+E:\test\測試2\bin\Debug\EtherCat.pdb
+E:\test\測試2\obj\Debug\EtherCat.csprojAssemblyReference.cache
+E:\test\測試2\obj\Debug\EtherCat.csppanel.resources
+E:\test\測試2\obj\Debug\EtherCat.Form1.resources
+E:\test\測試2\obj\Debug\EtherCat.Properties.Resources.resources
+E:\test\測試2\obj\Debug\EtherCat.csproj.GenerateResource.cache
+E:\test\測試2\obj\Debug\EtherCat.csproj.CoreCompileInputs.cache
+E:\test\測試2\obj\Debug\EtherCat.exe
+E:\test\測試2\obj\Debug\EtherCat.pdb
+C:\專題相關程式碼\專題實作範本\bin\Debug\EtherCat.exe.config
+C:\專題相關程式碼\專題實作範本\bin\Debug\EtherCat.exe
+C:\專題相關程式碼\專題實作範本\bin\Debug\EtherCat.pdb
+C:\專題相關程式碼\專題實作範本\obj\Debug\EtherCat.csprojAssemblyReference.cache
+C:\專題相關程式碼\專題實作範本\obj\Debug\EtherCat.csppanel.resources
+C:\專題相關程式碼\專題實作範本\obj\Debug\EtherCat.Form1.resources
+C:\專題相關程式碼\專題實作範本\obj\Debug\EtherCat.Properties.Resources.resources
+C:\專題相關程式碼\專題實作範本\obj\Debug\EtherCat.csproj.GenerateResource.cache
+C:\專題相關程式碼\專題實作範本\obj\Debug\EtherCat.csproj.CoreCompileInputs.cache
+C:\專題相關程式碼\專題實作範本\obj\Debug\EtherCat.exe
+C:\專題相關程式碼\專題實作範本\obj\Debug\EtherCat.pdb
+C:\專題相關程式碼\專題實作範本 - 複製\bin\Debug\EtherCat.exe.config
+C:\專題相關程式碼\專題實作範本 - 複製\bin\Debug\EtherCat.exe
+C:\專題相關程式碼\專題實作範本 - 複製\bin\Debug\EtherCat.pdb
+C:\專題相關程式碼\專題實作範本 - 複製\obj\Debug\EtherCat.Form1.resources
+C:\專題相關程式碼\專題實作範本 - 複製\obj\Debug\EtherCat.Properties.Resources.resources
+C:\專題相關程式碼\專題實作範本 - 複製\obj\Debug\EtherCat.csproj.GenerateResource.cache
+C:\專題相關程式碼\專題實作範本 - 複製\obj\Debug\EtherCat.csproj.CoreCompileInputs.cache
+C:\專題相關程式碼\專題實作範本 - 複製\obj\Debug\EtherCat.exe
+C:\專題相關程式碼\專題實作範本 - 複製\obj\Debug\EtherCat.pdb
+C:\專題相關程式碼\專題實作範本 - 複製\obj\Debug\EtherCat.SingleMotorCT.resources
+C:\專題相關程式碼\專題實作範本 - 複製\obj\Debug\EtherCat.MutiMotorCT.resources
+C:\專題相關程式碼\專題實作範本 - 複製\obj\Debug\EtherCat.csprojAssemblyReference.cache
+C:\專題相關程式碼\專題new\bin\Debug\EtherCat.exe.config
+C:\專題相關程式碼\專題new\bin\Debug\EtherCat.exe
+C:\專題相關程式碼\專題new\bin\Debug\EtherCat.pdb
+C:\專題相關程式碼\專題new\obj\Debug\EtherCat.SingleMotorCT.resources
+C:\專題相關程式碼\專題new\obj\Debug\EtherCat.Form1.resources
+C:\專題相關程式碼\專題new\obj\Debug\EtherCat.MutiMotorCT.resources
+C:\專題相關程式碼\專題new\obj\Debug\EtherCat.Properties.Resources.resources
+C:\專題相關程式碼\專題new\obj\Debug\EtherCat.csproj.GenerateResource.cache
+C:\專題相關程式碼\專題new\obj\Debug\EtherCat.csproj.CoreCompileInputs.cache
+C:\專題相關程式碼\專題new\obj\Debug\EtherCat.exe
+C:\專題相關程式碼\專題new\obj\Debug\EtherCat.pdb
+C:\專題相關程式碼\專題new\obj\Debug\EtherCat.HPRPanel.resources
+C:\專題相關程式碼\專題new -改\bin\Debug\EtherCat.exe.config
+C:\專題相關程式碼\專題new -改\bin\Debug\EtherCat.exe
+C:\專題相關程式碼\專題new -改\bin\Debug\EtherCat.pdb
+C:\專題相關程式碼\專題new -改\obj\Debug\EtherCat.HPRPanel.resources
+C:\專題相關程式碼\專題new -改\obj\Debug\EtherCat.SingleMotorCT.resources
+C:\專題相關程式碼\專題new -改\obj\Debug\EtherCat.Form1.resources
+C:\專題相關程式碼\專題new -改\obj\Debug\EtherCat.MutiMotorCT.resources
+C:\專題相關程式碼\專題new -改\obj\Debug\EtherCat.Properties.Resources.resources
+C:\專題相關程式碼\專題new -改\obj\Debug\EtherCat.csproj.GenerateResource.cache
+C:\專題相關程式碼\專題new -改\obj\Debug\EtherCat.csproj.CoreCompileInputs.cache
+C:\專題相關程式碼\專題new -改\obj\Debug\EtherCat.exe
+C:\專題相關程式碼\專題new -改\obj\Debug\EtherCat.pdb
+E:\專題new -改\bin\Debug\EtherCat.exe.config
+E:\專題new -改\bin\Debug\EtherCat.exe
+E:\專題new -改\bin\Debug\EtherCat.pdb
+E:\專題new -改\obj\Debug\EtherCat.csprojAssemblyReference.cache
+E:\專題new -改\obj\Debug\EtherCat.HPRPanel.resources
+E:\專題new -改\obj\Debug\EtherCat.SingleMotorCT.resources
+E:\專題new -改\obj\Debug\EtherCat.Form1.resources
+E:\專題new -改\obj\Debug\EtherCat.MutiMotorCT.resources
+E:\專題new -改\obj\Debug\EtherCat.Properties.Resources.resources
+E:\專題new -改\obj\Debug\EtherCat.csproj.GenerateResource.cache
+E:\專題new -改\obj\Debug\EtherCat.csproj.CoreCompileInputs.cache
+E:\專題new -改\obj\Debug\EtherCat.exe
+E:\專題new -改\obj\Debug\EtherCat.pdb
+C:\專題相關程式碼\專題改過暫時 - 複製\bin\Debug\EtherCat.exe.config
+C:\專題相關程式碼\專題改過暫時 - 複製\bin\Debug\EtherCat.exe
+C:\專題相關程式碼\專題改過暫時 - 複製\bin\Debug\EtherCat.pdb
+C:\專題相關程式碼\專題改過暫時 - 複製\obj\Debug\EtherCat.HPRPanel.resources
+C:\專題相關程式碼\專題改過暫時 - 複製\obj\Debug\EtherCat.SingleMotorCT.resources
+C:\專題相關程式碼\專題改過暫時 - 複製\obj\Debug\EtherCat.Form1.resources
+C:\專題相關程式碼\專題改過暫時 - 複製\obj\Debug\EtherCat.MutiMotorCT.resources
+C:\專題相關程式碼\專題改過暫時 - 複製\obj\Debug\EtherCat.Properties.Resources.resources
+C:\專題相關程式碼\專題改過暫時 - 複製\obj\Debug\EtherCat.csproj.GenerateResource.cache
+C:\專題相關程式碼\專題改過暫時 - 複製\obj\Debug\EtherCat.csproj.CoreCompileInputs.cache
+C:\專題相關程式碼\專題改過暫時 - 複製\obj\Debug\EtherCat.exe
+C:\專題相關程式碼\專題改過暫時 - 複製\obj\Debug\EtherCat.pdb
+C:\專題相關程式碼\專題改過暫時 - 複製\obj\Debug\EtherCat.csprojAssemblyReference.cache
+E:\0302test\bin\Debug\EtherCat.exe.config
+E:\0302test\bin\Debug\EtherCat.exe
+E:\0302test\bin\Debug\EtherCat.pdb
+E:\0302test\obj\Debug\EtherCat.HPRPanel.resources
+E:\0302test\obj\Debug\EtherCat.SingleMotorCT.resources
+E:\0302test\obj\Debug\EtherCat.Form1.resources
+E:\0302test\obj\Debug\EtherCat.MutiMotorCT.resources
+E:\0302test\obj\Debug\EtherCat.Properties.Resources.resources
+E:\0302test\obj\Debug\EtherCat.csproj.GenerateResource.cache
+E:\0302test\obj\Debug\EtherCat.csproj.CoreCompileInputs.cache
+E:\0302test\obj\Debug\EtherCat.exe
+E:\0302test\obj\Debug\EtherCat.pdb
+E:\0302test\obj\Debug\EtherCat.csprojAssemblyReference.cache
+G:\0302test\bin\Debug\EtherCat.exe.config
+G:\0302test\bin\Debug\EtherCat.exe
+G:\0302test\bin\Debug\EtherCat.pdb
+G:\0302test\obj\Debug\EtherCat.HPRPanel.resources
+G:\0302test\obj\Debug\EtherCat.SingleMotorCT.resources
+G:\0302test\obj\Debug\EtherCat.Form1.resources
+G:\0302test\obj\Debug\EtherCat.MutiMotorCT.resources
+G:\0302test\obj\Debug\EtherCat.Properties.Resources.resources
+G:\0302test\obj\Debug\EtherCat.statuspanel.resources
+G:\0302test\obj\Debug\EtherCat.csproj.GenerateResource.cache
+G:\0302test\obj\Debug\EtherCat.csproj.CoreCompileInputs.cache
+G:\0302test\obj\Debug\EtherCat.exe
+G:\0302test\obj\Debug\EtherCat.pdb
+G:\0310 test\obj\Debug\EtherCat.csprojAssemblyReference.cache
+G:\0310 test\obj\Debug\EtherCat.HPRPanel.resources
+G:\0310 test\obj\Debug\EtherCat.SingleMotorCT.resources
+G:\0310 test\obj\Debug\EtherCat.Form1.resources
+G:\0310 test\obj\Debug\EtherCat.MutiMotorCT.resources
+G:\0310 test\obj\Debug\EtherCat.Properties.Resources.resources
+G:\0310 test\obj\Debug\EtherCat.statuspanel.resources
+G:\0310 test\obj\Debug\EtherCat.csproj.GenerateResource.cache
+G:\0310 test\obj\Debug\EtherCat.csproj.CoreCompileInputs.cache
+G:\0310 test\obj\Debug\EtherCat.exe
+G:\0310 test\obj\Debug\EtherCat.pdb
+G:\0310 test\bin\Debug\EtherCat.exe.config
+G:\0310 test\bin\Debug\EtherCat.exe
+G:\0310 test\bin\Debug\EtherCat.pdb
+G:\0310 test\obj\Debug\EtherCat.realstatus.resources
+C:\專題相關程式碼\0310 test\bin\Debug\EtherCat.exe.config
+C:\專題相關程式碼\0310 test\bin\Debug\EtherCat.exe
+C:\專題相關程式碼\0310 test\bin\Debug\EtherCat.pdb
+C:\專題相關程式碼\0310 test\obj\Debug\EtherCat.csprojAssemblyReference.cache
+C:\專題相關程式碼\0310 test\obj\Debug\EtherCat.HPRPanel.resources
+C:\專題相關程式碼\0310 test\obj\Debug\EtherCat.realstatus.resources
+C:\專題相關程式碼\0310 test\obj\Debug\EtherCat.SingleMotorCT.resources
+C:\專題相關程式碼\0310 test\obj\Debug\EtherCat.Form1.resources
+C:\專題相關程式碼\0310 test\obj\Debug\EtherCat.MutiMotorCT.resources
+C:\專題相關程式碼\0310 test\obj\Debug\EtherCat.Properties.Resources.resources
+C:\專題相關程式碼\0310 test\obj\Debug\EtherCat.statuspanel.resources
+C:\專題相關程式碼\0310 test\obj\Debug\EtherCat.csproj.GenerateResource.cache
+C:\專題相關程式碼\0310 test\obj\Debug\EtherCat.csproj.CoreCompileInputs.cache
+C:\專題相關程式碼\0310 test\obj\Debug\EtherCat.exe
+C:\專題相關程式碼\0310 test\obj\Debug\EtherCat.pdb
+E:\0326test\bin\Debug\EtherCat.exe.config
+E:\0326test\bin\Debug\EtherCat.exe
+E:\0326test\bin\Debug\EtherCat.pdb
+E:\0326test\obj\Debug\EtherCat.csprojAssemblyReference.cache
+E:\0326test\obj\Debug\EtherCat.HPRPanel.resources
+E:\0326test\obj\Debug\EtherCat.realstatus.resources
+E:\0326test\obj\Debug\EtherCat.SingleMotorCT.resources
+E:\0326test\obj\Debug\EtherCat.Form1.resources
+E:\0326test\obj\Debug\EtherCat.MutiMotorCT.resources
+E:\0326test\obj\Debug\EtherCat.Properties.Resources.resources
+E:\0326test\obj\Debug\EtherCat.statuspanel.resources
+E:\0326test\obj\Debug\EtherCat.csproj.GenerateResource.cache
+E:\0326test\obj\Debug\EtherCat.csproj.CoreCompileInputs.cache
+E:\0326test\obj\Debug\EtherCat.exe
+E:\0326test\obj\Debug\EtherCat.pdb
+G:\0716modify - 複製\bin\Debug\EtherCat.exe.config
+G:\0716modify - 複製\bin\Debug\EtherCat.exe
+G:\0716modify - 複製\bin\Debug\EtherCat.pdb
+G:\0716modify - 複製\obj\Debug\EtherCat.csproj.AssemblyReference.cache
+G:\0716modify - 複製\obj\Debug\EtherCat.HPRPanel.resources
+G:\0716modify - 複製\obj\Debug\EtherCat.realstatus.resources
+G:\0716modify - 複製\obj\Debug\EtherCat.SingleMotorCT.resources
+G:\0716modify - 複製\obj\Debug\EtherCat.Form1.resources
+G:\0716modify - 複製\obj\Debug\EtherCat.MutiMotorCT.resources
+G:\0716modify - 複製\obj\Debug\EtherCat.Properties.Resources.resources
+G:\0716modify - 複製\obj\Debug\EtherCat.statuspanel.resources
+G:\0716modify - 複製\obj\Debug\EtherCat.csproj.GenerateResource.cache
+G:\0716modify - 複製\obj\Debug\EtherCat.csproj.CoreCompileInputs.cache
+G:\0716modify - 複製\obj\Debug\EtherCat.exe
+G:\0716modify - 複製\obj\Debug\EtherCat.pdb
+E:\0716modify - 複製\bin\Debug\EtherCat.exe.config
+E:\0716modify - 複製\bin\Debug\EtherCat.exe
+E:\0716modify - 複製\bin\Debug\EtherCat.pdb
+E:\0716modify - 複製\obj\Debug\EtherCat.csprojAssemblyReference.cache
+E:\0716modify - 複製\obj\Debug\EtherCat.HPRPanel.resources
+E:\0716modify - 複製\obj\Debug\EtherCat.realstatus.resources
+E:\0716modify - 複製\obj\Debug\EtherCat.SingleMotorCT.resources
+E:\0716modify - 複製\obj\Debug\EtherCat.Form1.resources
+E:\0716modify - 複製\obj\Debug\EtherCat.MutiMotorCT.resources
+E:\0716modify - 複製\obj\Debug\EtherCat.Properties.Resources.resources
+E:\0716modify - 複製\obj\Debug\EtherCat.statuspanel.resources
+E:\0716modify - 複製\obj\Debug\EtherCat.csproj.GenerateResource.cache
+E:\0716modify - 複製\obj\Debug\EtherCat.csproj.CoreCompileInputs.cache
+E:\0716modify - 複製\obj\Debug\EtherCat.exe
+E:\0716modify - 複製\obj\Debug\EtherCat.pdb
+C:\專題相關程式碼\0716modify - 複製\bin\Debug\EtherCat.exe.config
+C:\專題相關程式碼\0716modify - 複製\bin\Debug\EtherCat.exe
+C:\專題相關程式碼\0716modify - 複製\bin\Debug\EtherCat.pdb
+C:\專題相關程式碼\0716modify - 複製\obj\Debug\EtherCat.csproj.AssemblyReference.cache
+C:\專題相關程式碼\0716modify - 複製\obj\Debug\EtherCat.HPRPanel.resources
+C:\專題相關程式碼\0716modify - 複製\obj\Debug\EtherCat.realstatus.resources
+C:\專題相關程式碼\0716modify - 複製\obj\Debug\EtherCat.SingleMotorCT.resources
+C:\專題相關程式碼\0716modify - 複製\obj\Debug\EtherCat.Form1.resources
+C:\專題相關程式碼\0716modify - 複製\obj\Debug\EtherCat.MutiMotorCT.resources
+C:\專題相關程式碼\0716modify - 複製\obj\Debug\EtherCat.Properties.Resources.resources
+C:\專題相關程式碼\0716modify - 複製\obj\Debug\EtherCat.statuspanel.resources
+C:\專題相關程式碼\0716modify - 複製\obj\Debug\EtherCat.csproj.GenerateResource.cache
+C:\專題相關程式碼\0716modify - 複製\obj\Debug\EtherCat.csproj.CoreCompileInputs.cache
+C:\專題相關程式碼\0716modify - 複製\obj\Debug\EtherCat.exe
+C:\專題相關程式碼\0716modify - 複製\obj\Debug\EtherCat.pdb
