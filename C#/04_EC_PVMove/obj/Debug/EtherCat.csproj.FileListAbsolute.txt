@@ -1,0 +1,10 @@
+D:\碩\C#\04_EC_PVMove\bin\Debug\EtherCat.exe.config
+D:\碩\C#\04_EC_PVMove\bin\Debug\EtherCat.exe
+D:\碩\C#\04_EC_PVMove\bin\Debug\EtherCat.pdb
+D:\碩\C#\04_EC_PVMove\obj\Debug\EtherCat.csprojAssemblyReference.cache
+D:\碩\C#\04_EC_PVMove\obj\Debug\EtherCat.Form1.resources
+D:\碩\C#\04_EC_PVMove\obj\Debug\EtherCat.Properties.Resources.resources
+D:\碩\C#\04_EC_PVMove\obj\Debug\EtherCat.csproj.GenerateResource.cache
+D:\碩\C#\04_EC_PVMove\obj\Debug\EtherCat.csproj.CoreCompileInputs.cache
+D:\碩\C#\04_EC_PVMove\obj\Debug\EtherCat.exe
+D:\碩\C#\04_EC_PVMove\obj\Debug\EtherCat.pdb

@@ -1,0 +1,10 @@
+D:\專題\C#\06_EC_CSPMove\bin\Debug\EtherCat.exe.config
+D:\專題\C#\06_EC_CSPMove\bin\Debug\EtherCat.exe
+D:\專題\C#\06_EC_CSPMove\bin\Debug\EtherCat.pdb
+D:\專題\C#\06_EC_CSPMove\obj\Debug\EtherCat.csprojAssemblyReference.cache
+D:\專題\C#\06_EC_CSPMove\obj\Debug\EtherCat.Form1.resources
+D:\專題\C#\06_EC_CSPMove\obj\Debug\EtherCat.Properties.Resources.resources
+D:\專題\C#\06_EC_CSPMove\obj\Debug\EtherCat.csproj.GenerateResource.cache
+D:\專題\C#\06_EC_CSPMove\obj\Debug\EtherCat.csproj.CoreCompileInputs.cache
+D:\專題\C#\06_EC_CSPMove\obj\Debug\EtherCat.exe
+D:\專題\C#\06_EC_CSPMove\obj\Debug\EtherCat.pdb
